@@ -3,4 +3,4 @@
 Aplikasi kasir gratis untuk komputer windows 
 
 ## Download
-[Download](/releases)
+[Download](https://github.com/nnttoo/QT_SimpleKasir/releases)
