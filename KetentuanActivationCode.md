@@ -4,7 +4,7 @@
 - Activation code berguna untuk menghilangkan iklan,  
 - Tanpa Activation code pengguna qt simple kasir masih bisa menggunakan qt simple kasir tanpa batasan apapun, hanya saja akan muncul iklan saat penggunaan.
 
-### Apa keunggulan lain menggunakan activation code dan tanpa akitvation code?
+### Apa keunggulan lain menggunakan activation code dan tanpa akitvation code lagi?
 - Hanya tidak munculnya iklan, selebihnya tidak ada keunggulan apapun.
 
 ### Apakah activation code bisa digunakan dibeberapa komputer?
